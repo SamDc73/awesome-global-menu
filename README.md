@@ -8,6 +8,7 @@
 - [Picard](https://picard.musicbrainz.org/)
 - [transmission-qt](https://transmissionbt.com)
 - [smplayer](https://www.smplayer.info)
+- [otter browser](https://otter-browser.org/)
 
 ## Works only Under X11
 - [chromium](https://www.chromium.org/)
