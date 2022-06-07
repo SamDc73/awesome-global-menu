@@ -7,6 +7,7 @@
 - [kotatogram Desktop](https://kotatogram.github.io/) (Telegram client)
 - [Picard](https://picard.musicbrainz.org/)
 - [transmission-qt](https://transmissionbt.com)
+- [smplayer](https://www.smplayer.info)
 
 ## Works only Under X11
 - [chromium](https://www.chromium.org/)
