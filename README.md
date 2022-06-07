@@ -17,7 +17,7 @@
   - [vscodium](https://github.com/VSCodium/vscodium/)
 - [anki](https://apps.ankiweb.net/)
 - [Telegram](https://desktop.telegram.org/)
-- [Vlc](https://github.com/videolan/vlc)
+- [vlc](https://github.com/videolan/vlc)
 
 ---
 
